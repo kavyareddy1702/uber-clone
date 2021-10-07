@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922942631407",
+    "project_id": "cab1-7391a",
+    "storage_bucket": "cab1-7391a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922942631407:android:033d479418fef000455a1a",
+        "android_client_info": {
+          "package_name": "com.myappcompany.kavya.cab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922942631407-e7n82d47po8u962bn3ch4jc65kjn0q3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9m8Q470IqWI9nVUw1UrSTMu4iYXm62Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922942631407-e7n82d47po8u962bn3ch4jc65kjn0q3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
