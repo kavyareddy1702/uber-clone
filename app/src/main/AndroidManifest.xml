@@ -10,12 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CAB1">
         <activity
-            android:name=".CustomerLoginRegisterActivity"
-            android:exported="true" />
-        <activity
-            android:name=".DriverLoginRegisterActivity"
-            android:exported="true" />
-        <activity
             android:name=".WelcomeActivity"
             android:exported="true" />
         <activity
